@@ -44,5 +44,14 @@
     <script src="assets/vendor/libs/summernote/summernote.js" defer></script>
     <!-- Active State JS -->
     <script src="assets/js/active-state-nav.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.datatables.net/2.2.1/js/datatTables.min.js"></script>
+    <script src="https://cdn.datatables.net/2.2.1/js/dataTables.bootsrap5.min.js"></script>
+    <script>
+      $(document).ready(function() {
+        $('#exampleTable').DataTable();
+      
+      });
+    </script>
 </body>
 </html>

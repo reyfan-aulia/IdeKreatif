@@ -28,6 +28,7 @@ include "init_session.php";
     <!-- Vendors CSS -->
     <link rel="stylesheet" href="assets/vendor/css/dataTables.bootstrap5.min.css">
     <link rel="stylesheet" href="assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css" />
+    <link rel="stylesheet" href="https://cdn.datatables.net/2.2.1/css/dataTables.bootstrap5.min.css">
     <!-- Page CSS -->
     <!-- Summernote CSS and JS -->
     <link rel="stylesheet" href="assets/vendor/css/summernote.min.css">
